@@ -16,7 +16,7 @@
 - Garrafinha com areia
 - Ecobag
 
-##Eventos
+## Eventos
 - Python Brasil (17 a 22/10/2018): Painel PyLadies, Django Girls
 - PyLadies Conf (16/10/2018)
 
