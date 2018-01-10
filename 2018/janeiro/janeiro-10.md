@@ -48,7 +48,7 @@
 ## Calendário 2018
 
 | Mês/Data     | Atividade | Ministrante(s) | Local | Observação |
-| :___ | :___ | :___ | :___ | :___ |
+| :--- | :--- | :--- | :--- | :--- |
 | Fevereiro/24 | Minicurso: Intro a Python  | Débora, Gabi, Késsia, Irene, Clara | | |
 | Março/17     | Encontro  |                |       |            |
 | Abril/21     | Minicurso: Intro a Git  | Débora, Gabi, Késsia, Irene, Clara | | |
