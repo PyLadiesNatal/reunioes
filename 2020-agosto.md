@@ -24,3 +24,13 @@ Atualizar
 * Criar issues das coisas que precisam ser feitas (site, atualização de redes sociais etc)
 * Divulgar as issues no grupo do Telegram
 * Quem puder, pega o que puder pra fazer
+
+
+
+
+-----------------------------
+DELIBERAÇÕES
+-----------------------------
+
+* Site: Gabi Duarte, Raquel Sara
+* Posts no Twitter/Instagram: Gabi Duarte, Esther
