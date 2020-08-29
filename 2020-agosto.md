@@ -21,6 +21,6 @@ Atualizar
 * Usar as cores da boneca nova (https://drive.google.com/drive/folders/1QLSVH7KHMrX-9tDtMM384XyriS9i0Avu)
 
 ## Tarefas
-Criar issues das coisas que precisam ser feitas (site, atualização de redes sociais etc)
-Divulgar as issues no grupo do Telegram
-Quem puder, pega o que puder pra fazer
+* Criar issues das coisas que precisam ser feitas (site, atualização de redes sociais etc)
+* Divulgar as issues no grupo do Telegram
+* Quem puder, pega o que puder pra fazer
